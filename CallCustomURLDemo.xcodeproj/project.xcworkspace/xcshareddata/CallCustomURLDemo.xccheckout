@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BD0DAC59-BB04-4A5C-A561-14B19C40AB17</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CallCustomURLDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96504ef7-9942-40ef-b9f2-2641aef354d2</key>
+		<string>http://svn.rkgtechllc.com</string>
+		<key>96504ef7-9942-40ef-b9f2-2641aef354d2++7332</key>
+		<string>http://svn.rkgtechllc.com/ashishiOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CallCustomURLDemo/CallCustomURLDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96504ef7-9942-40ef-b9f2-2641aef354d2</key>
+		<string>../../../..</string>
+		<key>96504ef7-9942-40ef-b9f2-2641aef354d2++7332</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>96504ef7-9942-40ef-b9f2-2641aef354d2++7332</key>
+		<string>http://svn.rkgtechllc.com</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.rkgtechllc.com/ashishiOS/CallCustomURLDemo/CallCustomURLDemo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96504ef7-9942-40ef-b9f2-2641aef354d2++7332</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96504ef7-9942-40ef-b9f2-2641aef354d2</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96504ef7-9942-40ef-b9f2-2641aef354d2++7332</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ashishiOS%20(Working%20Copy)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
